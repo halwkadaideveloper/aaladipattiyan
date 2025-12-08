@@ -18,7 +18,7 @@ const AppLinks = () => {
   return (
     <div>
       <div className="text-[20px] mb-4 font-extrabold text-white">
-      <Logo fillColor="#FFFFFFFF" darkmode="#FFFFFFFF" />
+      <Logo />
       </div>
 
       <div className="flex gap-2 flex-wrap">
