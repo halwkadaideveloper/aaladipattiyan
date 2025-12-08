@@ -15,9 +15,9 @@
 }
 
 :root {
-  --primary-color: #b1c748;
-  --primary-dark: #5ac12f;
-  --secondary-color: #d8e3a3;
+  --primary-color: #EFA937;
+  --primary-dark: #f2be57;
+  --secondary-color: #f2be57;
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 255, 255, 255;
   --background-end-rgb: 255, 255, 255;
