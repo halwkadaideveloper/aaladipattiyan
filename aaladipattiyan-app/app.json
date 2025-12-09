@@ -63,7 +63,7 @@
     },
     "notification": {
       "iosDisplayInForeground": true,
-      "color": "#90E36D",
+      "color": "#EFA937",
       "icon": "./assets/not-icon.png",
       "androidMode": "default",
       "androidCollapsedTitle": "Aaladipattiyan Multivendor"
