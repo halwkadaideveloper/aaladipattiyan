@@ -78,7 +78,7 @@
   "Delivery Rate": "Тариф доставки",
   "Currency Symbol": "Символ валюты",
   "enterYourDetailsBelow": "Введите ваши данные ниже",
-  "LogintoEnatega": "Войти в Enatega",
+  "LogintoEnatega": "Войти в Aaladipattiyan",
   "RememberMe": "Запомнить меня",
   "ForgotYourPassword": "Забыли пароль?",
   "errorWhileSaving": "Ошибка при сохранении. Попробуйте снова",
@@ -98,7 +98,7 @@
   "ChooseSymbol": "Выберите символ",
   "PHMail": "например, что-то@email.com",
   "EmailName": "Имя электронной почты",
-  "PHEnatega": "например, Enatega",
+  "PHEnatega": "например, Aaladipattiyan",
   "PHFood": "например, Еда",
   "ClientSecretKey": "Секретный ключ клиента",
   "Stripe": "Stripe",
@@ -121,9 +121,9 @@
   "LoadingDots": "Загрузка...",
   "ErrorDots": "Ошибка...",
   "NewAddon": "Новое дополнение",
-  "EnategaMultivendor": "Enatega MultiVendor",
+  "EnategaMultivendor": "Aaladipattiyan MultiVendor",
   "ResetPassword": "Сбросить пароль",
-  "EnategaDashboard": "Панель Enatega",
+  "EnategaDashboard": "Панель Aaladipattiyan",
   "UpdateOption": "Обновить опцию",
   "Add Option": "Добавить опцию",
   "OrderStatusUpdated": "Статус заказа обновлен",
@@ -803,7 +803,7 @@
   "Login to your account": "Войдите в ваш аккаунт",
   "Welcome back! Please enter your details": "Добро пожаловать! Введите ваши данные",
   "Let's get started": "Давайте начнем",
-  "First, let's create your Enatega account": "Сначала создадим ваш аккаунт Enatega",
+  "First, let's create your Aaladipattiyan account": "Сначала создадим ваш аккаунт Aaladipattiyan",
   "Password Strength": "Сила пароля",
   "Create Account": "Создать аккаунт",
   "Coming Soon": "Скоро",
@@ -1100,7 +1100,6 @@
   "Payment Required": "Требуется оплата",
   "Please complete your purchase to gain full access to the product": "Завершите покупку для полного доступа к продукту",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "Поскольку ставка комиссии является процентным значением, она не может превышать максимальное значение 100",
-  
   "audit_log_header_desc": "Отслеживайте все административные действия и изменения в системе.",
   "Performed_by": "Выполнено",
   "show_detail": "Показать детали",
@@ -1113,7 +1112,5 @@
     "weak": "Слабый",
     "medium": "Средний",
     "strong": "Сильный"
-  
-}
-
+  }
 }

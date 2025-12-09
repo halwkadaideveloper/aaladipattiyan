@@ -1,4 +1,5 @@
-{"checking_for_active_orders": "सक्रिय ऑर्डर तपासत आहोत",
+{
+  "checking_for_active_orders": "सक्रिय ऑर्डर तपासत आहोत",
   "no_active_orders_found": "कोणत्याही सक्रिय ऑर्डर आढळल्या नाहीत",
   "active_orders_found": "सक्रिय ऑर्डर आढळल्या",
   "checking_active_orders_message": "कृपया थांबा, आम्ही तुमच्या सक्रिय ऑर्डर तपासत आहोत...",
@@ -687,7 +688,7 @@
   "contact_us": "आमच्याशी संपर्क साधा",
   "prevailing_language": "प्रचलित भाषा",
   "restrictions": "निर्बंध",
-  "Enatega": "एनाटेगा",
+  "Aaladipattiyan": "एनाटेगा",
   "restrictions_on_goods": "वस्तूंवरील निर्बंध",
   "orders": "ऑर्डर",
   "prices_and_payments": "किंमती आणि पेमेंट्स",

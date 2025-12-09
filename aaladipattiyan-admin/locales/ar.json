@@ -84,7 +84,7 @@
   "Delivery Rate": "سعر التوصيل",
   "Currency Symbol": "رمز العملة",
   "enterYourDetailsBelow": "أدخل بياناتك أدناه",
-  "LogintoEnatega": "تسجيل الدخول إلى Enatega",
+  "LogintoEnatega": "تسجيل الدخول إلى Aaladipattiyan",
   "RememberMe": "تذكرني",
   "ForgotYourPassword": "نسيت كلمة المرور؟",
   "errorWhileSaving": "حدث خطأ أثناء الحفظ، حاول مرة أخرى",
@@ -106,7 +106,7 @@
   "ChooseSymbol": "اختر الرمز",
   "PHMail": "مثال: something@email.com",
   "EmailName": "اسم البريد الإلكتروني",
-  "PHEnatega": "مثال: Enatega",
+  "PHEnatega": "مثال: Aaladipattiyan",
   "PHFood": "مثال: FOOD",
   "ClientSecretKey": "مفتاح السر الخاص بالعميل",
   "Stripe": "سترايب",
@@ -129,9 +129,9 @@
   "LoadingDots": "جاري التحميل ...",
   "ErrorDots": "خطأ ...",
   "NewAddon": "إضافة جديدة",
-  "EnategaMultivendor": "Enatega متعدد البائعين",
+  "EnategaMultivendor": "Aaladipattiyan متعدد البائعين",
   "ResetPassword": "إعادة تعيين كلمة المرور",
-  "EnategaDashboard": "لوحة تحكم Enatega",
+  "EnategaDashboard": "لوحة تحكم Aaladipattiyan",
   "UpdateOption": "تحديث الخيار",
   "AddOption": "إضافة خيار",
   "OrderStatusUpdated": "تم تحديث حالة الطلب",
@@ -793,7 +793,7 @@
   "Login to your account": "تسجيل الدخول إلى حسابك",
   "Welcome back! Please enter your details": "مرحباً بعودتك! يرجى إدخال بياناتك",
   "Let's get started": "هيا نبدأ",
-  "First, let's create your Enatega account": "أولاً، دعنا ننشئ حسابك في Enatega",
+  "First, let's create your Aaladipattiyan account": "أولاً، دعنا ننشئ حسابك في Aaladipattiyan",
   "Password Strength": "قوة كلمة المرور",
   "user_details": "تفاصيل المستخدم",
   "personal_info": "المعلومات الشخصية",
@@ -1110,12 +1110,11 @@
   "No_differences_found_in_data": "لم يتم العثور على أي اختلافات في البيانات.",
   "read more": "اقرأ المزيد",
   "read less": "اقرأ أقل",
-    "no_user_found": "لم يتم العثور على أي مستخدم",
-    "enter_password": {
+  "no_user_found": "لم يتم العثور على أي مستخدم",
+  "enter_password": {
     "enter_a_password": "أدخل كلمة المرور",
     "weak": "ضعيف",
     "medium": "متوسط",
     "strong": "قوي"
   }
-
 }

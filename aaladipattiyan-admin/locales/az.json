@@ -107,7 +107,7 @@
   "Delivery Rate": "Çatdırılma dərəcəsi",
   "Currency Symbol": "Valyuta simvolu",
   "enterYourDetailsBelow": "Aşağıdakı məlumatları daxil edin",
-  "LogintoEnatega": "Enatega-ya daxil olun",
+  "LogintoEnatega": "Aaladipattiyan-ya daxil olun",
   "RememberMe": "Məni xatırla",
   "ForgotYourPassword": "Şifrənizi unutmusunuz?",
   "errorWhileSaving": "Yadda saxlama zamanı xəta baş verdi, yenidən cəhd edin",
@@ -127,7 +127,7 @@
   "ChooseSymbol": "Simvol seçin",
   "PHMail": "məs. something@email.com",
   "EmailName": "E-poçt adı",
-  "PHEnatega": "məs. Enatega",
+  "PHEnatega": "məs. Aaladipattiyan",
   "PHFood": "məs. FOOD",
   "ClientSecretKey": "Müştəri gizli açarı",
   "Stripe": "Stripe",
@@ -150,9 +150,9 @@
   "LoadingDots": "Yüklənir ...",
   "ErrorDots": "Xəta ...",
   "NewAddon": "Yeni əlavə",
-  "EnategaMultivendor": "Enatega Çoxsatışlı",
+  "EnategaMultivendor": "Aaladipattiyan Çoxsatışlı",
   "ResetPassword": "Şifrəni sıfırla",
-  "EnategaDashboard": "Enatega İdarə paneli",
+  "EnategaDashboard": "Aaladipattiyan İdarə paneli",
   "UpdateOption": "Seçimi yenilə",
   "Add Option": "Seçim əlavə et",
   "OrderStatusUpdated": "Sifariş statusu yeniləndi",
@@ -800,7 +800,7 @@
   "Login to your account": "Hesabınıza daxil olun",
   "Welcome back! Please enter your details": "Xoş gəldiniz! Zəhmət olmasa məlumatlarınızı daxil edin",
   "Let's get started": "Başlayaq",
-  "First, let's create your Enatega account": "İlk olaraq Enatega hesabınızı yaradaq",
+  "First, let's create your Aaladipattiyan account": "İlk olaraq Aaladipattiyan hesabınızı yaradaq",
   "Password Strength": "Şifrə gücü",
   "Create Account": "Hesab yarat",
   "Coming Soon": "Tezliklə",
@@ -1101,17 +1101,16 @@
   "Please complete your purchase to gain full access to the product": "Məhsula tam giriş əldə etmək üçün alışınızı tamamlayın",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "Komissiya dərəcəsi % dəyər olduğu üçün maksimum 100-ü keçə bilməz",
   "audit_log_header_desc": "Sistem daxilində bütün inzibati hərəkətləri və dəyişiklikləri izləyin.",
-"Performed_by": "Tərəfindən yerinə yetirilib",
-"show_detail": "Ətraflı göstər",
-"hide_detail": "Ətraflı gizlət",
-"No_differences_found_in_data": "Məlumatlarda heç bir fərq tapılmadı.",
-"read more": "Daha çox oxu",
-"read less": "Daha az oxu",
-"enter_password": {
-  "enter_a_password": "Şifrə daxil edin",
-  "weak": "Zəif",
-  "medium": "Orta",
-  "strong": "Güclü"
-}
-
+  "Performed_by": "Tərəfindən yerinə yetirilib",
+  "show_detail": "Ətraflı göstər",
+  "hide_detail": "Ətraflı gizlət",
+  "No_differences_found_in_data": "Məlumatlarda heç bir fərq tapılmadı.",
+  "read more": "Daha çox oxu",
+  "read less": "Daha az oxu",
+  "enter_password": {
+    "enter_a_password": "Şifrə daxil edin",
+    "weak": "Zəif",
+    "medium": "Orta",
+    "strong": "Güclü"
+  }
 }

@@ -803,7 +803,7 @@
   "Login to your account": "તમારા ખાતામાં લૉગિન કરો",
   "Welcome back! Please enter your details": "પાછા સ્વાગત છે! કૃપા કરીને તમારી વિગતો દાખલ કરો",
   "Let's get started": "ચાલો શરૂ કરીએ",
-  "First, let's create your Enatega account": "પહેલા, ચાલો તમારું એનાટેગા ખાતું બનાવીએ",
+  "First, let's create your Aaladipattiyan account": "પહેલા, ચાલો તમારું એનાટેગા ખાતું બનાવીએ",
   "Password Strength": "પાસવર્ડ શક્તિ",
   "Create Account": "ખાતું બનાવો",
   "Coming Soon": "જલ્દી આવી રહ્યું છે",
@@ -1101,17 +1101,16 @@
   "Please complete your purchase to gain full access to the product": "ઉત્પાદનની સંપૂર્ણ ઍક્સેસ મેળવવા માટે તમારી ખરીદી પૂર્ણ કરો",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "કમિશન દર ટકાવારી મૂલ્ય હોવાથી તે ૧૦૦ ની મહત્તમ મૂલ્ય કરતાં વધારે ન હોઈ શકે",
   "audit_log_header_desc": "સિસ્ટમમાં તમામ વહીવટી કાર્યવાહી અને બદલાવને ટ્રૅક કરો.",
-"Performed_by": "દ્વારા કરવામાં આવ્યું",
-"show_detail": "વિગતો બતાવો",
-"hide_detail": "વિગતો છુપાવો",
-"No_differences_found_in_data": "ડેટામાં કોઈ ફરક મળ્યો નથી.",
-"read more": "વધુ વાંચો",
-"read less": "ઓછું વાંચો",
-"enter_password": {
-  "enter_a_password": "પાસવર્ડ દાખલ કરો",
-  "weak": "નબળું",
-  "medium": "મધ્યમ",
-  "strong": "મજબૂત"
-}
-
+  "Performed_by": "દ્વારા કરવામાં આવ્યું",
+  "show_detail": "વિગતો બતાવો",
+  "hide_detail": "વિગતો છુપાવો",
+  "No_differences_found_in_data": "ડેટામાં કોઈ ફરક મળ્યો નથી.",
+  "read more": "વધુ વાંચો",
+  "read less": "ઓછું વાંચો",
+  "enter_password": {
+    "enter_a_password": "પાસવર્ડ દાખલ કરો",
+    "weak": "નબળું",
+    "medium": "મધ્યમ",
+    "strong": "મજબૂત"
+  }
 }

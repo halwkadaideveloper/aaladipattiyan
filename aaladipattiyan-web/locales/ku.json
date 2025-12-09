@@ -1,4 +1,5 @@
-{"checking_for_active_orders": "پشکنینی داواکارییە چالاکەکان",
+{
+  "checking_for_active_orders": "پشکنینی داواکارییە چالاکەکان",
   "no_active_orders_found": "هیچ داواکارییە چالاکەکان نەدۆزرایەوە",
   "active_orders_found": "داواکارییە چالاکەکان دۆزرایەوە",
   "checking_active_orders_message": "تکایە چاوەڕێ بکە، ئێمە داواکارییە چالاکەکانت پشکنین دەکەین...",
@@ -687,7 +688,7 @@
   "contact_us": "پەیوەندیمان پێوەبکە",
   "prevailing_language": "زانی باڵادەست",
   "restrictions": "سنووردارکردنەکان",
-  "Enatega": "ئیناتێگا",
+  "Aaladipattiyan": "ئیناتێگا",
   "restrictions_on_goods": "سنووردارکردنەکان لەسەر کاڵاکان",
   "orders": "داواکاریەکان",
   "prices_and_payments": "نرخەکان و پارەدانەکان",

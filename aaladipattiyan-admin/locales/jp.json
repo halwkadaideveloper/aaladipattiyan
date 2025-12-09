@@ -98,7 +98,7 @@
   "ChooseSymbol": "記号を選択",
   "PHMail": "例：something@email.com",
   "EmailName": "メール名",
-  "PHEnatega": "例：Enatega",
+  "PHEnatega": "例：Aaladipattiyan",
   "PHFood": "例：食品",
   "ClientSecretKey": "クライアントシークレットキー",
   "Stripe": "Stripe",
@@ -804,7 +804,7 @@
   "Login to your account": "アカウントにログイン",
   "Welcome back! Please enter your details": "おかえりなさい！詳細を入力してください",
   "Let's get started": "始めましょう",
-  "First, let's create your Enatega account": "まず、Enategaアカウントを作成しましょう",
+  "First, let's create your Aaladipattiyan account": "まず、Enategaアカウントを作成しましょう",
   "Password Strength": "パスワードの強度",
   "Create Account": "アカウントを作成",
   "Coming Soon": "近日公開",
@@ -1101,7 +1101,6 @@
   "Payment Required": "支払いが必要",
   "Please complete your purchase to gain full access to the product": "購入を完了して製品へのフルアクセスを取得してください",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "手数料率はパーセンテージ値であるため、最大100を超えることはできません",
-  
   "audit_log_header_desc": "システム内のすべての管理操作と変更を追跡します。",
   "Performed_by": "実行者",
   "show_detail": "詳細を表示",
@@ -1114,7 +1113,5 @@
     "weak": "弱い",
     "medium": "普通",
     "strong": "強い"
-  
-}
-
+  }
 }

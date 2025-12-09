@@ -78,7 +78,7 @@
   "Delivery Rate": "Tarifa de entrega",
   "Currency Symbol": "Símbolo de moneda",
   "enterYourDetailsBelow": "Ingrese sus detalles a continuación",
-  "LogintoEnatega": "Inicie sesión en Enatega",
+  "LogintoEnatega": "Inicie sesión en Aaladipattiyan",
   "RememberMe": "Recuérdame",
   "ForgotYourPassword": "¿Olvidó su contraseña?",
   "errorWhileSaving": "Error al guardar, intente nuevamente",
@@ -98,7 +98,7 @@
   "ChooseSymbol": "Elegir símbolo",
   "PHMail": "como algo@email.com",
   "EmailName": "Nombre de correo",
-  "PHEnatega": "como Enatega",
+  "PHEnatega": "como Aaladipattiyan",
   "PHFood": "como COMIDA",
   "ClientSecretKey": "Clave secreta de cliente",
   "Stripe": "Stripe",
@@ -121,9 +121,9 @@
   "LoadingDots": "Cargando...",
   "ErrorDots": "Error...",
   "NewAddon": "Nuevo complemento",
-  "EnategaMultivendor": "Enatega Multivendedor",
+  "EnategaMultivendor": "Aaladipattiyan Multivendedor",
   "ResetPassword": "Restablecer contraseña",
-  "EnategaDashboard": "Panel de Enatega",
+  "EnategaDashboard": "Panel de Aaladipattiyan",
   "UpdateOption": "Actualizar opción",
   "Add Option": "Agregar opción",
   "OrderStatusUpdated": "Estado del pedido actualizado",
@@ -803,7 +803,7 @@
   "Login to your account": "Inicia sesión en tu cuenta",
   "Welcome back! Please enter your details": "¡Bienvenido de nuevo! Por favor, ingresa tus detalles",
   "Let's get started": "¡Empecemos!",
-  "First, let's create your Enatega account": "Primero, creemos tu cuenta de Enatega",
+  "First, let's create your Aaladipattiyan account": "Primero, creemos tu cuenta de Aaladipattiyan",
   "Password Strength": "Fuerza de la contraseña",
   "Create Account": "Crear cuenta",
   "Coming Soon": "Próximamente",
@@ -1101,17 +1101,16 @@
   "Please complete your purchase to gain full access to the product": "Completa tu compra para obtener acceso completo al producto",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "Dado que la tasa de comisión es un valor porcentual, no puede exceder un valor máximo de 100",
   "audit_log_header_desc": "Realice un seguimiento de todas las acciones y cambios administrativos dentro del sistema.",
-"Performed_by": "Realizado por",
-"show_detail": "Mostrar detalles",
-"hide_detail": "Ocultar detalles",
-"No_differences_found_in_data": "No se encontraron diferencias en los datos.",
-"read more": "Leer más",
-"read less": "Leer menos",
-"enter_password": {
-  "enter_a_password": "Ingrese una contraseña",
-  "weak": "Débil",
-  "medium": "Medio",
-  "strong": "Fuerte"
-}
-
+  "Performed_by": "Realizado por",
+  "show_detail": "Mostrar detalles",
+  "hide_detail": "Ocultar detalles",
+  "No_differences_found_in_data": "No se encontraron diferencias en los datos.",
+  "read more": "Leer más",
+  "read less": "Leer menos",
+  "enter_password": {
+    "enter_a_password": "Ingrese una contraseña",
+    "weak": "Débil",
+    "medium": "Medio",
+    "strong": "Fuerte"
+  }
 }

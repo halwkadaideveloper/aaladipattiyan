@@ -78,7 +78,7 @@
   "Delivery Rate": "שיעור משלוח",
   "Currency Symbol": "סמל מטבע",
   "enterYourDetailsBelow": "הזן את פרטיך למטה",
-  "LogintoEnatega": "התחבר ל-Enatega",
+  "LogintoEnatega": "התחבר ל-Aaladipattiyan",
   "RememberMe": "זכור אותי",
   "ForgotYourPassword": "שכחת סיסמה?",
   "errorWhileSaving": "שגיאה בעת שמירה,נסה שוב",
@@ -98,7 +98,7 @@
   "ChooseSymbol": "בחר סמל",
   "PHMail": "לדוג' משהו@email.com",
   "EmailName": "שם דוא\"ל",
-  "PHEnatega": "לדוג' Enatega",
+  "PHEnatega": "לדוג' Aaladipattiyan",
   "PHFood": "לדוג' אוכל",
   "ClientSecretKey": "מפתח סוד לקוח",
   "Stripe": "סטרייפ",
@@ -121,9 +121,9 @@
   "LoadingDots": "טוען ...",
   "ErrorDots": "שגיאה ...",
   "NewAddon": "תוסף חדש",
-  "EnategaMultivendor": "Enatega רב מוכרים",
+  "EnategaMultivendor": "Aaladipattiyan רב מוכרים",
   "ResetPassword": "אפס סיסמה",
-  "EnategaDashboard": "לוח מחוונים של Enatega",
+  "EnategaDashboard": "לוח מחוונים של Aaladipattiyan",
   "UpdateOption": "עדכון אפשרות",
   "Add Option": "הוסף אפשרות",
   "OrderStatusUpdated": "סטטוס הזמנה עודכן",
@@ -753,7 +753,7 @@
   "Login to your account": "התחבר לחשבונך",
   "Welcome back! Please enter your details": "ברוך הבא! אנא הזן את פרטיך",
   "Let's get started": "בוא נתחיל",
-  "First, let's create your Enatega account": "קודם כל, בוא ניצור את חשבון Enatega שלך",
+  "First, let's create your Aaladipattiyan account": "קודם כל, בוא ניצור את חשבון Aaladipattiyan שלך",
   "Password Strength": "חוזק סיסמה",
   "Create Account": "צור חשבון",
   "Coming Soon": "בקרוב",
@@ -1100,17 +1100,16 @@
   "ShopType": "סוג חנות",
   "Audit Logs": "יומני ביקורת",
   "audit_log_header_desc": "עקבו אחר כל הפעולות והשינויים המנהליים במערכת.",
-"Performed_by": "בוצע על ידי",
-"show_detail": "הצג פרטים",
-"hide_detail": "הסתר פרטים",
-"No_differences_found_in_data": "לא נמצאו הבדלים בנתונים.",
-"read more": "קרא עוד",
-"read less": "קרא פחות",
-"enter_password": {
-  "enter_a_password": "הזן סיסמה",
-  "weak": "חלשה",
-  "medium": "בינונית",
-  "strong": "חזקה"
-}
-
+  "Performed_by": "בוצע על ידי",
+  "show_detail": "הצג פרטים",
+  "hide_detail": "הסתר פרטים",
+  "No_differences_found_in_data": "לא נמצאו הבדלים בנתונים.",
+  "read more": "קרא עוד",
+  "read less": "קרא פחות",
+  "enter_password": {
+    "enter_a_password": "הזן סיסמה",
+    "weak": "חלשה",
+    "medium": "בינונית",
+    "strong": "חזקה"
+  }
 }

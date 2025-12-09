@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Enatega Store",
+    "name": "Aaladipattiyan Store",
     "slug": "enatega-multivendor-restaurant",
-    "description": "Enatega is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
+    "description": "Aaladipattiyan is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
     "version": "1.0.67",
     "orientation": "portrait",
     "icon": "./lib/assets/images/icon.png",
@@ -19,7 +19,6 @@
     },
     "plugins": [
       "expo-router",
-
       [
         "expo-image-picker",
         {

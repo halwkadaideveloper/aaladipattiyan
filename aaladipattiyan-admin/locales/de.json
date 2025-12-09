@@ -78,7 +78,7 @@
   "Delivery Rate": "Liefergebühr",
   "Currency Symbol": "Währungssymbol",
   "enterYourDetailsBelow": "Geben Sie Ihre Details unten ein",
-  "LogintoEnatega": "Melden Sie sich bei Enatega an",
+  "LogintoEnatega": "Melden Sie sich bei Aaladipattiyan an",
   "RememberMe": "Erinnere dich an mich",
   "ForgotYourPassword": "Haben Sie Ihr Passwort vergessen?",
   "errorWhileSaving": "Ein Fehler ist beim Speichern aufgetreten. Versuchen Sie es erneut",
@@ -98,7 +98,7 @@
   "ChooseSymbol": "Symbol auswählen",
   "PHMail": "z. B. etwas@email.com",
   "EmailName": "E-Mail-Name",
-  "PHEnatega": "z. B. Enatega",
+  "PHEnatega": "z. B. Aaladipattiyan",
   "PHFood": "z. B. Essen",
   "ClientSecretKey": "Client-Geheimschlüssel",
   "Stripe": "Stripe",
@@ -121,9 +121,9 @@
   "LoadingDots": "Lädt ...",
   "ErrorDots": "Fehler ...",
   "NewAddon": "Neues Addon",
-  "EnategaMultivendor": "Enatega Multivendor",
+  "EnategaMultivendor": "Aaladipattiyan Multivendor",
   "ResetPassword": "Passwort zurücksetzen",
-  "EnategaDashboard": "Enatega Dashboard",
+  "EnategaDashboard": "Aaladipattiyan Dashboard",
   "UpdateOption": "Option aktualisieren",
   "Add Option": "Option hinzufügen",
   "OrderStatusUpdated": "Bestellstatus aktualisiert",
@@ -790,7 +790,7 @@
   "Login to your account": "Melden Sie sich bei Ihrem Konto an",
   "Welcome back! Please enter your details": "Willkommen zurück! Bitte geben Sie Ihre Daten ein",
   "Let's get started": "Lass uns anfangen",
-  "First, let's create your Enatega account": "Zuerst erstellen wir Ihr Enatega-Konto",
+  "First, let's create your Aaladipattiyan account": "Zuerst erstellen wir Ihr Aaladipattiyan-Konto",
   "Password Strength": "Passwortstärke",
   "Create Account": "Konto erstellen",
   "Coming Soon": "Kommt bald",
@@ -1090,17 +1090,16 @@
   "ShopType": "Ladenart",
   "Audit Logs": "Prüfprotokolle",
   "audit_log_header_desc": "Verfolgen Sie alle administrativen Aktionen und Änderungen innerhalb des Systems.",
-"Performed_by": "Durchgeführt von",
-"show_detail": "Details anzeigen",
-"hide_detail": "Details ausblenden",
-"No_differences_found_in_data": "Keine Unterschiede in den Daten gefunden.",
-"read more": "Mehr lesen",
-"read less": "Weniger lesen",
-"enter_password": {
-  "enter_a_password": "Geben Sie ein Passwort ein",
-  "weak": "Schwach",
-  "medium": "Mittel",
-  "strong": "Stark"
-}
-
+  "Performed_by": "Durchgeführt von",
+  "show_detail": "Details anzeigen",
+  "hide_detail": "Details ausblenden",
+  "No_differences_found_in_data": "Keine Unterschiede in den Daten gefunden.",
+  "read more": "Mehr lesen",
+  "read less": "Weniger lesen",
+  "enter_password": {
+    "enter_a_password": "Geben Sie ein Passwort ein",
+    "weak": "Schwach",
+    "medium": "Mittel",
+    "strong": "Stark"
+  }
 }

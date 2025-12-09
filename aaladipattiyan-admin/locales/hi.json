@@ -78,7 +78,7 @@
   "Delivery Rate": "डिलीवरी दर",
   "Currency Symbol": "मुद्रा प्रतीक",
   "enterYourDetailsBelow": "नीचे अपनी जानकारी दर्ज करें",
-  "LogintoEnatega": "Enatega में लॉगिन करें",
+  "LogintoEnatega": "Aaladipattiyan में लॉगिन करें",
   "RememberMe": "मुझे याद रखें",
   "ForgotYourPassword": "अपना पासवर्ड भूल गए?",
   "errorWhileSaving": "सहेजते समय त्रुटि, कृपया पुनः प्रयास करें",
@@ -98,7 +98,7 @@
   "ChooseSymbol": "प्रतीक चुनें",
   "PHMail": "उदाहरण something@email.com",
   "EmailName": "ईमेल नाम",
-  "PHEnatega": "उदाहरण Enatega",
+  "PHEnatega": "उदाहरण Aaladipattiyan",
   "PHFood": "उदाहरण खाना",
   "ClientSecretKey": "क्लाइंट सीक्रेट कुंजी",
   "Stripe": "स्ट्राइप",
@@ -121,9 +121,9 @@
   "LoadingDots": "लोड हो रहा है...",
   "ErrorDots": "त्रुटि...",
   "NewAddon": "नया ऐड-ऑन",
-  "EnategaMultivendor": "Enatega मल्टी-वेंडर",
+  "EnategaMultivendor": "Aaladipattiyan मल्टी-वेंडर",
   "ResetPassword": "पासवर्ड रीसेट करें",
-  "EnategaDashboard": "Enatega डैशबोर्ड",
+  "EnategaDashboard": "Aaladipattiyan डैशबोर्ड",
   "UpdateOption": "विकल्प अपडेट करें",
   "Add Option": "विकल्प जोड़ें",
   "OrderStatusUpdated": "ऑर्डर स्थिति अपडेट की गई",
@@ -803,7 +803,7 @@
   "Login to your account": "अपने खाते में लॉगिन करें",
   "Welcome back! Please enter your details": "वापस स्वागत है! कृपया अपनी जानकारी दर्ज करें",
   "Let's get started": "चलो शुरू करें",
-  "First, let's create your Enatega account": "पहले, आइए आपका Enatega खाता बनाएं",
+  "First, let's create your Aaladipattiyan account": "पहले, आइए आपका Aaladipattiyan खाता बनाएं",
   "Password Strength": "पासवर्ड की ताकत",
   "Create Account": "खाता बनाएं",
   "Coming Soon": "जल्द आ रहा है",
@@ -1101,17 +1101,16 @@
   "Please complete your purchase to gain full access to the product": "उत्पाद तक पूर्ण पहुँच प्राप्त करने के लिए कृपया अपनी खरीदारी पूरी करें",
   "As commission rate is a %age value so it cannot exceed a max value of 100": "चूंकि कमीशन दर एक प्रतिशत मान है इसलिए यह 100 के अधिकतम मान से अधिक नहीं हो सकता",
   "audit_log_header_desc": "सिस्टम के अंदर सभी प्रशासनिक कार्यों और परिवर्तनों को ट्रैक करें।",
-"Performed_by": "द्वारा किया गया",
-"show_detail": "विवरण दिखाएँ",
-"hide_detail": "विवरण छिपाएँ",
-"No_differences_found_in_data": "डेटा में कोई अंतर नहीं मिला।",
-"read more": "और पढ़ें",
-"read less": "कम पढ़ें",
-"enter_password": {
-  "enter_a_password": "एक पासवर्ड दर्ज करें",
-  "weak": "कमज़ोर",
-  "medium": "मध्यम",
-  "strong": "मजबूत"
-}
-
+  "Performed_by": "द्वारा किया गया",
+  "show_detail": "विवरण दिखाएँ",
+  "hide_detail": "विवरण छिपाएँ",
+  "No_differences_found_in_data": "डेटा में कोई अंतर नहीं मिला।",
+  "read more": "और पढ़ें",
+  "read less": "कम पढ़ें",
+  "enter_password": {
+    "enter_a_password": "एक पासवर्ड दर्ज करें",
+    "weak": "कमज़ोर",
+    "medium": "मध्यम",
+    "strong": "मजबूत"
+  }
 }

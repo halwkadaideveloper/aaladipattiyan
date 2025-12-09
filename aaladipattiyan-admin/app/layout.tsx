@@ -4,7 +4,7 @@ import Script from 'next/script';
 
 // ✅ Add metadata export for favicon
 export const metadata = {
-  title: 'Enatega Admin Dashboard',
+  title: 'Aaladipattiyan Admin Dashboard',
   icons: {
     icon: '/favsicons.png',
     // You can add more like:
