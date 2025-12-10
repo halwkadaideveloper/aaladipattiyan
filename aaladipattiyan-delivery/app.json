@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Aaladipattiyan Multivendor Rider",
+    "name": "Aaladipattiyan Delivery",
     "description": "Aaladipattiyan is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
-    "version": "1.1.67",
-    "slug": "food-delivery-rider-multivendor",
+    "version": "1.0.1",
+    "slug": "aaladipattiyan-delivery",
     "orientation": "portrait",
     "splash": {
       "image": "./lib/assets/images/black.png",
@@ -14,7 +14,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "scheme": "myapp",
+    "scheme": "aaladipattiyan-delivery",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "plugins": [
@@ -48,7 +48,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.enatega.multirider",
+      "bundleIdentifier": "com.aaladipattiyan.delivery",
       "config": {
         "googleMapsApiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
       },
@@ -64,7 +64,7 @@
       }
     },
     "android": {
-      "versionCode": 67,
+      "versionCode": 1,
       "googleServicesFile": "./google-services.json",
       "permissions": [
         "ACCESS_COARSE_LOCATION",
@@ -75,7 +75,7 @@
           "apiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
         }
       },
-      "package": "com.enatega.multirider",
+      "package": "com.aaladipattiyan.delivery",
       "icon": "./lib/assets/images/appIcon.png",
       "adaptiveIcon": {
         "foregroundImage": "./lib/assets/images/appIcon.png",
@@ -84,7 +84,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9144a7fc-b205-464a-8fb6-64eb66fc8743"
+        "projectId": "17a97005-1804-438a-968a-ee151ea0f5e3"
       }
     },
     "experiments": {
