@@ -359,7 +359,7 @@ function Main(props) {
                     <View style={{ width: '100%', height: '100%', justifyContent: 'center', alignItems: 'center', paddingHorizontal: 20 }}>
                       <ActivityIndicator size='large' color={currentTheme.spinnerColor} />
                     </View>
-                  ) : restaurantorders?.length > 0 ? (
+                  ) : (restaurantorders?.length > 0 || nearByGroceryStores?.length > 0) ? (
                     <ScrollView showsVerticalScrollIndicator={false} showsHorizontalScrollIndicator={false} refreshControl={<RefreshControl refreshing={isRefreshing} onRefresh={handleRefresh} />}>
                       <Banner banners={banners?.banners} />
                       <View style={{ gap: 16 }}>
