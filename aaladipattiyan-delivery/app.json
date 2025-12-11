@@ -22,8 +22,8 @@
       [
         "@sentry/react-native/expo",
         {
-          "organization": "ninjas-code",
-          "project": "enatega-rider-app",
+          "organization": "aaladipattiyan",
+          "project": "aaladipattiyan-delivery-app",
           "url": "https://sentry.io/"
         }
       ],
@@ -50,7 +50,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.aaladipattiyan.delivery",
       "config": {
-        "googleMapsApiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+        "googleMapsApiKey": "AIzaSyCrIK0qXxw-EuPND8RRtoAy2xpWnWcpwFM"
       },
       "icon": "./lib/assets/images/icon.png",
       "infoPlist": {
@@ -72,7 +72,7 @@
       ],
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+          "apiKey": "AIzaSyCrIK0qXxw-EuPND8RRtoAy2xpWnWcpwFM"
         }
       },
       "package": "com.aaladipattiyan.delivery",

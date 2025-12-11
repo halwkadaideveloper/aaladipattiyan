@@ -12,11 +12,11 @@ const getEnvVars = (env = Updates.channel) => {
     return {
       // GRAPHQL_URL: "https://enatega-multivendor.up.railway.app/graphql",
       // WS_GRAPHQL_URL: "wss://enatega-multivendor.up.railway.app/graphql",
-      GRAPHQL_URL: "https://aws-server.enatega.com/graphql",
-      WS_GRAPHQL_URL: "wss://aws-server.enatega.com/graphql",
+      GRAPHQL_URL: "https://aaladipattiyan-api-production.up.railway.app/graphql",
+      WS_GRAPHQL_URL: "wss://aaladipattiyan-api-production.up.railway.app/graphql",
       SENTRY_DSN:
         configuration?.riderAppSentryUrl ??
-        "https://e963731ba0f84e5d823a2bbe2968ea4d@o1103026.ingest.sentry.io/6135261",
+        "https://4724a5602f63054da8d14f83e62a0eee@o4510514913083392.ingest.us.sentry.io/4510514962038784",
       // GOOGLE_MAPS_KEY: 'AIzaSyBk4tvTtPaSEAVSvaao2yISz4m8Q-BeE1M',
       GOOGLE_MAPS_KEY:configuration?.googleApiKey,
       ENVIRONMENT: "production",
@@ -24,11 +24,11 @@ const getEnvVars = (env = Updates.channel) => {
   }
 
   return {
-      GRAPHQL_URL: "https://aws-server.enatega.com/graphql",
-      WS_GRAPHQL_URL: "wss://aws-server.enatega.com/graphql",
+      GRAPHQL_URL: "https://aaladipattiyan-api-production.up.railway.app/graphql",
+      WS_GRAPHQL_URL: "wss://aaladipattiyan-api-production.up.railway.app/graphql",
     SENTRY_DSN:
       configuration?.riderAppSentryUrl ??
-      "https://e963731ba0f84e5d823a2bbe2968ea4d@o1103026.ingest.sentry.io/6135261",
+      "https://4724a5602f63054da8d14f83e62a0eee@o4510514913083392.ingest.us.sentry.io/4510514962038784",
     // GOOGLE_MAPS_KEY: 'AIzaSyBk4tvTtPaSEAVSvaao2yISz4m8Q-BeE1M',
     GOOGLE_MAPS_KEY:configuration?.googleApiKey,
     ENVIRONMENT: "development",
