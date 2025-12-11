@@ -24,7 +24,10 @@
     },
 
     "production": {
-      "channel": "production"
+      "channel": "production",
+      "env": {
+        "SENTRY_AUTH_TOKEN": "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"
+      }
     }
   },
   "submit": {

@@ -16,14 +16,23 @@
       "channel": "staging",
       "distribution": "internal",
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "gradleCommand": ":app:assembleRelease"
       },
       "env": {
-        "SENTRY_AUTH_TOKEN": "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"
+        "SENTRY_AUTH_TOKEN": "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",
+        "NODE_OPTIONS": "--max-old-space-size=4096"
       }
     },
     "production": {
-      "channel": "production"
+      "channel": "production",
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      },
+      "env": {
+        "SENTRY_AUTH_TOKEN": "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",
+        "NODE_OPTIONS": "--max-old-space-size=4096"
+      }
     }
   },
   "submit": {
