@@ -1,41 +1,40 @@
 {
   "project_info": {
-    "project_number": "650001300965",
-    "firebase_url": "https://enatega-multivendor.firebaseio.com",
-    "project_id": "enatega-multivendor",
-    "storage_bucket": "enatega-multivendor.appspot.com"
+    "project_number": "198224424128",
+    "project_id": "aaladipattiyan-5a144",
+    "storage_bucket": "aaladipattiyan-5a144.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:650001300965:android:e027e6c5c2074a426bc30c",
+        "mobilesdk_app_id": "1:198224424128:android:26429b1147fd086deed125",
         "android_client_info": {
-          "package_name": "com.enatega.multirider"
+          "package_name": "com.aaladipattiyan.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+          "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-Arn9vDqHen1EJimV8lJfNsYOBLNcIfg"
+          "current_key": "AIzaSyBt56z_eGx9QlOzqpMxl3UzcmVqsIzscvQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+              "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "650001300965-64g2c3c54tldg7u6ilvo0diluuroncoa.apps.googleusercontent.com",
+              "client_id": "198224424128-277h3nl41bkh117v4gccmkis5kopd80r.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "host.exp.exponent"
+                "bundle_id": "com.aaladipattiyan.app"
               }
             }
           ]
@@ -44,42 +43,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:650001300965:android:6c9c0fedca09492b6bc30c",
+        "mobilesdk_app_id": "1:198224424128:android:28038d992d71e05feed125",
         "android_client_info": {
-          "package_name": "com.enatega.multivendor"
+          "package_name": "com.aaladipattiyan.delivery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "650001300965-fnumuadf66rhah0o1a9d7ci0fg8vuesv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.enatega.multivendor",
-            "certificate_hash": "7fa9f5ce09bef5d511dd8823138aa6b1c21a8989"
-          }
-        },
-        {
-          "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+          "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-Arn9vDqHen1EJimV8lJfNsYOBLNcIfg"
+          "current_key": "AIzaSyBt56z_eGx9QlOzqpMxl3UzcmVqsIzscvQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+              "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "650001300965-64g2c3c54tldg7u6ilvo0diluuroncoa.apps.googleusercontent.com",
+              "client_id": "198224424128-277h3nl41bkh117v4gccmkis5kopd80r.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "host.exp.exponent"
+                "bundle_id": "com.aaladipattiyan.app"
               }
             }
           ]
@@ -88,34 +79,34 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:650001300965:android:0ec725fd3f014ddc6bc30c",
+        "mobilesdk_app_id": "1:198224424128:android:a45cf34c5cd37eceeed125",
         "android_client_info": {
-          "package_name": "multivendor.enatega.restaurant"
+          "package_name": "com.aaladipattiyan.store"
         }
       },
       "oauth_client": [
         {
-          "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+          "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-Arn9vDqHen1EJimV8lJfNsYOBLNcIfg"
+          "current_key": "AIzaSyBt56z_eGx9QlOzqpMxl3UzcmVqsIzscvQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "650001300965-9ochl634tuvv6iguei6dl57jkmfto6r9.apps.googleusercontent.com",
+              "client_id": "198224424128-are8084g0nil0892t2uipp3rt71qimnp.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "650001300965-64g2c3c54tldg7u6ilvo0diluuroncoa.apps.googleusercontent.com",
+              "client_id": "198224424128-277h3nl41bkh117v4gccmkis5kopd80r.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "host.exp.exponent"
+                "bundle_id": "com.aaladipattiyan.app"
               }
             }
           ]

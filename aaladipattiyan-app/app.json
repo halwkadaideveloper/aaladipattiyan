@@ -41,7 +41,7 @@
       "bundleIdentifier": "com.aaladipattiyan.app",
       "icon": "./assets/icon.png",
       "config": {
-        "googleMapsApiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+        "googleMapsApiKey": "AIzaSyCrIK0qXxw-EuPND8RRtoAy2xpWnWcpwFM"
       },
       "usesAppleSignIn": true,
       "infoPlist": {
@@ -54,7 +54,7 @@
         "CFBundleURLTypes": [
           {
             "CFBundleURLSchemes": [
-              "com.googleusercontent.apps.650001300965-dkji7jutv8gc5m4n7cdg3nft87sauhn7"
+              "com.googleusercontent.apps.198224424128-277h3nl41bkh117v4gccmkis5kopd80r"
             ]
           }
         ],
@@ -80,7 +80,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+          "apiKey": "AIzaSyCrIK0qXxw-EuPND8RRtoAy2xpWnWcpwFM"
         }
       },
       "permissions": [
@@ -125,7 +125,7 @@
       [
         "expo-updates",
         {
-          "username": "ninjas_code"
+          "username": "halwkadaideveloper"
         }
       ],
       [
