@@ -16,7 +16,7 @@
     ],
     "scheme": "aaladipattiyan-delivery",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "plugins": [
       "expo-router",
       [
